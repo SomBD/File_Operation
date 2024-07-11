@@ -1,0 +1,11 @@
+sl no,Questions,Answer 1,Answer 2,Answer 3,Answer 4,Correct Answer
+1,What is the field of Natural Language Processing (NLP)?,Computer Science,Artificial Intelligence,Linguistics,Computer Science,All of the mentioned
+2,What is the main challenge/s of NLP?,Handling POS-Tagging,Handling Tokenization,,All of the mentioned,Handling Ambiguity of Sentences
+3,What is Machine Translation?,Converts human language to machine language,Converts one human language to another,Converts any human language to English,Converts Machine language to human language,Converts one human language to another
+4,What is full form of NLP?, Natural Language pages,Nature Language Processing,Natural Language Process,Natural Language Processing,Natural Language Processing
+5,What are the input and output of an NLP system?,Speech and noise,Speech and Written Text,Noise and Written Text,Noise and value,Speech and Written Text
+6,What is full form of NLU?,Natural Language Understanding,Natural Long Understanding,Nature Language Understanding,Natural Language Generation,Nature Language Understanding
+7,What is full form of NLG?,Nature Language Generation,Natural Language Genes,Natural Language Growth,Natural Language Generation,Natural Language Generation
+8,Which of the following is used study of construction of words from primitive meaningful units?,Morphology,Phonology,Morpheme,Shonology,Morphology
+9,Choose from the following areas where NATURAL LANGUAGE PROCESSING can be helpful.,Automatic Question Answering Systems,Automatic Text Summarization,Information Retrieval,All of these,Automatic Question Answering Systems
+10,What is stemming in NLP?,Reducing words to their base or root form,Assigning sentiment scores to words,Analyzing grammatical structure,Identifying named entities,Reducing words to their base or root form
